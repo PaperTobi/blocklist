@@ -45,4 +45,4 @@
 ||mein-schoener-garten.de^$third-party
 ||strickclub.de^$third-party
 ||sudoku-online.org^$third-party
-fbu8gofhadadhhv8.myfritz.net
+||fbu8gofhadadhhv8.myfritz.net^
