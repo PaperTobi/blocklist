@@ -1,0 +1,17 @@
+0.0.0.0 bild.de
+0.0.0.0 express.de
+0.0.0.0 focus.de
+0.0.0.0 rtl.de
+0.0.0.0 t-online.de
+0.0.0.0 morgenpost.de
+0.0.0.0 derwesten.de
+0.0.0.0 norton.com
+0.0.0.0 mcafee.com
+0.0.0.0 avast.com
+0.0.0.0 avg.com
+0.0.0.0 panda.com
+0.0.0.0 kaspersky.com
+0.0.0.0 chip.de
+0.0.0.0 softonic.com
+0.0.0.0 download.cnet.com
+
