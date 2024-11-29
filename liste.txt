@@ -235,13 +235,3 @@
 ||ad.spiegel.de^
 ||ads.spiegel.de^
 ||stats.spiegel.de^
-
-||welt.de^
-||www.welt.de^
-||video.welt.de^
-||cdn.welt.de^
-||m.welt.de^
-||shop.welt.de^
-||service.welt.de^
-||ads.welt.de^
-
