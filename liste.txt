@@ -199,11 +199,6 @@
 ||download.cybereason.com^
 ||telemetry.cybereason.com^
 
-||defender.microsoft.com^
-||update.microsoft.com^
-||telemetry.microsoft.com^
-||api.defender.microsoft.com^
-
 ||bild.de^
 ||www.bild.de^
 ||img.bild.de^
